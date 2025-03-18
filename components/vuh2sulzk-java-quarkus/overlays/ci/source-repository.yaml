@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vuh2sulzk-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/vuh2sulzk-java-quarkus
